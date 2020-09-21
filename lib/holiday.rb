@@ -78,6 +78,6 @@ end
         end
       end
     end
-  bbq_holidays.flatten
+  bbq_holidays.flatten.compact
 
   end
